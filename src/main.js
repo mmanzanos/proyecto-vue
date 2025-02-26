@@ -1,4 +1,5 @@
-import './assets/main.css'
+// Hace que el contenido este centrado
+//import './assets/main.css'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
